@@ -1,0 +1,8 @@
+
+.Grid {
+    max-width:  156px;
+    margin: 60px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
